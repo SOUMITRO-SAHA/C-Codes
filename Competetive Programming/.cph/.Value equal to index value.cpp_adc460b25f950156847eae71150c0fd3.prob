@@ -1,0 +1,1 @@
+{"name":"Local: Value equal to index value","url":"d:\\Programming\\CPP\\Competetive Programming\\Value equal to index value.cpp","tests":[{"id":1649225849698,"input":"5\n15 2 45 12 7","output":"2"}],"interactive":false,"memoryLimit":1024,"timeLimit":3000,"srcPath":"d:\\Programming\\CPP\\Competetive Programming\\Value equal to index value.cpp","group":"local","local":true}

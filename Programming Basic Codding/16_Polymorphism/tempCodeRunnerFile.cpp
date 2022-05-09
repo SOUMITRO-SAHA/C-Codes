@@ -1,0 +1,1 @@
+cout<<"The Diameter of the Circle is - "<<(2*c.r)<<endl;
